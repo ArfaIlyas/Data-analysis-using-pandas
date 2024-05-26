@@ -5,7 +5,7 @@ Description:
 This project involves analyzing a dataset containing information about clinical trials. The dataset includes details such as trial titles, NCT numbers, conditions, outcomes, sponsors, start dates, statuses, completion dates, URLs, etc. The goal is to extract insights from the data using various analytical techniques and provide valuable information for stakeholders in the medical and research fields.
 
 Files Included:
-
+EDA Assignment 1.pdf: check this file to have an overview of the analysis i did with the data set
 COVID clinical trials.csv: CSV file containing the dataset on clinical trials.
 eda.ipynb: Python script containing code for data analysis tasks.
 README.md: This file providing an overview of the project and instructions for usage.
